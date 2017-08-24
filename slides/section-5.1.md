@@ -1,3 +1,0 @@
-- ###### Working ethically
-- ###### Respect privacy
-- ###### Not crashing your systems

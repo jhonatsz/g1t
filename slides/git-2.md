@@ -1,0 +1,6 @@
+### Why do you need VCS ?
+
+Imagine a situation, when you're writing code...
+<img height='300' src='./images/ide.jpg' />
+
+... and suddenly after deployment on a production...

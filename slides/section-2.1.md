@@ -1,5 +1,0 @@
-- ###### Skills
-- ###### Mindset
-- ###### Tools
-# - 
-- ###### Trustworthy

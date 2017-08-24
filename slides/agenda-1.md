@@ -1,5 +1,6 @@
-- ###### Understand *"Hackers Objectives"*
-- ###### Distinguish *"Ethical vs Malicious"*
-- ###### Examine *"Ethical Hacking Process"*
-- ###### Understand *"How Secure is Secure"*
-- ###### Jumpstart *"Ethical Hacking Process"*
+* ###### What is Git ? , Why do you need it ?
+* ###### Repository Structure
+* ###### Basic Workflow
+  *  *Exercises !*
+* ###### Branches
+  *  *Exercises !*
