@@ -1,5 +1,0 @@
-- ###### Formulate your plan
-- ###### Selecting tools
-- ###### Executing the plan
-- ###### Evaluating results
-- ###### Move on
