@@ -1,0 +1,9 @@
+version: "3"
+services:
+  app:
+    image: jhonatsz/revealjs
+    container_name: g1t
+    ports:
+      - "8000:8000"
+    volumes:
+      - $PWD:/slides
